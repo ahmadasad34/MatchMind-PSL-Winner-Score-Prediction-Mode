@@ -1,4 +1,4 @@
-🏏 PSL Match Prediction — ML Model
+PSL Match Prediction — ML Model
 
 A Jupyter Notebook predicting Pakistan Super League (PSL) match outcomes using machine learning models trained on historical data.
 
@@ -47,6 +47,9 @@ Execute cells sequentially.
 🎯 Key Takeaways
 
 ✔ Hands-on sports analytics pipeline
+
 ✔ Practical feature engineering & data cleaning
+
 ✔ ML classification workflows
--
+
+
